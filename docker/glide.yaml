@@ -1,0 +1,6 @@
+package: dockergo
+import:
+- package: github.com/gorilla/mux
+  version: ^1.5.0
+- package: github.com/aerospike/aerospike-client-go
+  version: v1.29.0
